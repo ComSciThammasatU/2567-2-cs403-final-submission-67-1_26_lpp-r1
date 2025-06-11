@@ -51,6 +51,115 @@ Manual / Instructions for your projects starts here !
 │   │   ├── OnMap.cs
 │   │   ├── Player.cs
 │   │   └── Wall.cs
+│   ├── Content
+│   │   ├── datas
+│   │   │   └── Fish.json
+│   │   ├── Guide
+│   │   │   ├── CloseB.png
+│   │   │   └── Guide.png
+│   │   ├── Items
+│   │   │   └── FishingItems
+│   │   │       └── Bober.png
+│   │   ├── Light
+│   │   │   └── radial.png
+│   │   ├── MainMenu
+│   │   │   ├── BackB.png
+│   │   │   ├── ExitB.png
+│   │   │   ├── Logo.png
+│   │   │   ├── MainMenuBG.png
+│   │   │   ├── PlayB.png
+│   │   │   ├── Save1.png
+│   │   │   ├── Save2.png
+│   │   │   └── Save3.png
+│   │   ├── Maps
+│   │   │   ├── Decorations
+│   │   │   │   ├── bed.png
+│   │   │   │   ├── bigtree.png
+│   │   │   │   ├── bush_t1_01.png
+│   │   │   │   ├── bush_t1_02.png
+│   │   │   │   ├── bush_t1_03.png
+│   │   │   │   ├── bush_t1_04.png
+│   │   │   │   └── tent.png
+│   │   │   ├── TiledTemplate
+│   │   │   │   └── WallCollision.tx
+│   │   │   ├── Tilesets
+│   │   │   │   ├── BigTree.tsx
+│   │   │   │   ├── Dark_temp.tsx
+│   │   │   │   ├── Decoration.tsx
+│   │   │   │   ├── home.png
+│   │   │   │   ├── InsideTent.tsx
+│   │   │   │   ├── land_spacing-export.png
+│   │   │   │   ├── land_spacing-export.tsx
+│   │   │   │   ├── tent.tsx
+│   │   │   │   ├── tiles.png
+│   │   │   │   └── Tileset.tsx
+│   │   │   ├── Home.tmx
+│   │   │   ├── Tent.tmx
+│   │   │   ├── Town.tmx
+│   │   │   └── town2.tmx
+│   │   ├── OST
+│   │   │   └── MysticGrove.wav
+│   │   ├── Player
+│   │   │   └── Fishing
+│   │   │   │   ├── bigCircle.png
+│   │   │   │   ├── smallCircle.png
+│   │   │   │   └── smallCircleFilled.png
+│   │   │   └── player.png
+│   │   ├── PlayerMenu
+│   │   │   ├── DecreaseB.png
+│   │   │   ├── ExitB.png
+│   │   │   ├── HelpB.png
+│   │   │   ├── IncreaseB.png
+│   │   │   ├── InventoryB.png
+│   │   │   ├── MainB.png
+│   │   │   ├── MenuB.png
+│   │   │   ├── MusicLogo.png
+│   │   │   ├── SettingB.png
+│   │   │   └── SFXLogo.png
+│   │   ├── SaveDay
+│   │   │   └── NextB.png
+│   │   ├── SFX
+│   │   │   ├── Casting.wav
+│   │   │   ├── Catch.wav
+│   │   │   ├── Charge.wav
+│   │   │   ├── Hooked.wav
+│   │   │   ├── PressB.wav
+│   │   │   ├── Progess.wav
+│   │   │   ├── ReelIn.wav
+│   │   │   ├── ReelOut.wav
+│   │   │   └── Step.wav
+│   │   ├── Content.mgcb
+│   │   ├── DebugFont.spritefont
+│   │   ├── hero.png
+│   │   ├── ItemIcon.png
+│   │   ├── pixel.png
+│   │   └── tent.png
+│   ├── Datas
+│   │   ├── FishJsonData.cs
+│   │   └── SavedMapData.cs
+│   ├── DayTimeWeather
+│   │   ├── DayTime.cs
+│   │   └── TimePeriod.cs
+│   ├── pipeline-references
+│   │   ├── MonoGGame.Extended.Content.Pipeline.dll
+│   │   └── MonoGGame.Extended.dll
+│   ├── Systems
+│   │   ├── BodyRenderSystem.cs
+│   │   ├── CameraSystem.cs
+│   │   ├── FishingMiniGameSystem.cs
+│   │   ├── FishingRenderSystem.cs
+│   │   ├── FishingSystem.cs
+│   │   ├── GateSystem.cs
+│   │   ├── HUDRenderSystem.cs
+│   │   ├── LightingRenderSystem.cs
+│   │   ├── MapLoaderSystem.cs
+│   │   ├── MapRenderSystem.cs
+│   │   ├── PlayerMenuRenderSystem.cs
+│   │   ├── PlayerMenuSystem.cs
+│   │   ├── PlayerSystem.cs
+│   │   ├── RenderSystem.cs
+│   │   ├── WaterAreaSystem.cs
+│   │   └── WorldSystem.cs
 │   │     
 └── FinLeafIsle.sln
 ```

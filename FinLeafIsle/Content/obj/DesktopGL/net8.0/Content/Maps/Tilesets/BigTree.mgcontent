@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/Maps/Tilesets/BigTree.tsx</SourceFile>
+  <SourceTime>2025-05-14T23:42:00.2054683+07:00</SourceTime>
+  <DestFile>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/bin/DesktopGL/Content/Maps/Tilesets/BigTree.xnb</DestFile>
+  <DestTime>2025-05-14T23:43:22.1970858+07:00</DestTime>
+  <Importer>TiledMapTilesetImporter</Importer>
+  <ImporterTime>2024-07-10T02:47:10+07:00</ImporterTime>
+  <Processor>TiledMapTilesetProcessor</Processor>
+  <ProcessorTime>2024-07-10T02:47:10+07:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/bin/DesktopGL/Content/Maps/Decorations/bigtree_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

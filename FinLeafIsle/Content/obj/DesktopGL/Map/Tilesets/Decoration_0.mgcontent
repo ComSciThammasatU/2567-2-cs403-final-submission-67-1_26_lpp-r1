@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/Map/Tilesets/Decoration.tsx</SourceFile>
+  <SourceTime>2025-02-23T19:26:07.3359656+07:00</SourceTime>
+  <DestFile>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/bin/DesktopGL/Map/Tilesets/Decoration_0.xnb</DestFile>
+  <DestTime>2025-02-23T20:22:22.3335481+07:00</DestTime>
+  <Importer>TiledMapTilesetImporter</Importer>
+  <ImporterTime>2024-07-10T02:47:10+07:00</ImporterTime>
+  <Processor>TiledMapTilesetProcessor</Processor>
+  <ProcessorTime>2024-07-10T02:47:10+07:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/bin/DesktopGL/Map/Decorations/bush_t1_01_0.xnb</string>
+    <string>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/bin/DesktopGL/Map/Decorations/bush_t1_02_0.xnb</string>
+    <string>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/bin/DesktopGL/Map/Decorations/bush_t1_03_0.xnb</string>
+    <string>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/bin/DesktopGL/Map/Decorations/bush_t1_04_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

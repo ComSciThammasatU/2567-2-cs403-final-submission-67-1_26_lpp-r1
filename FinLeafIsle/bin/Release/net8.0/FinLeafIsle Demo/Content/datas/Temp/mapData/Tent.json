@@ -1,0 +1,66 @@
+{
+  "MapName": "Tent",
+  "Entities": [
+    {
+      "ContainSlot": null,
+      "EntityType": null,
+      "Box": null,
+      "Fish": null,
+      "FishingRod": null,
+      "Player": null,
+      "Bed": {
+        "Position": "304, 168",
+        "Size": "32, 48",
+        "BoundingBox": {
+          "Min": "288, 144",
+          "Max": "320, 192",
+          "Center": "16, 24",
+          "CenterX": 16.0,
+          "CenterY": 24.0,
+          "Width": 32.0,
+          "Height": 48.0
+        }
+      },
+      "Transform": {
+        "WorldPosition": "304, 168",
+        "WorldScale": "1, 1",
+        "WorldRotation": 0.0,
+        "Position": "304, 168",
+        "Rotation": 0.0,
+        "Scale": "1, 1",
+        "LocalMatrix": {
+          "M11": 1.0,
+          "M12": 0.0,
+          "M21": 0.0,
+          "M22": 1.0,
+          "M31": 304.0,
+          "M32": 168.0,
+          "X": "1, 0",
+          "Y": "0, 1",
+          "Z": "304, 168",
+          "Translation": "304, 168",
+          "Rotation": 0.0,
+          "Scale": "1, 1"
+        },
+        "WorldMatrix": {
+          "M11": 1.0,
+          "M12": 0.0,
+          "M21": 0.0,
+          "M22": 1.0,
+          "M31": 304.0,
+          "M32": 168.0,
+          "X": "1, 0",
+          "Y": "0, 1",
+          "Z": "304, 168",
+          "Translation": "304, 168",
+          "Rotation": 0.0,
+          "Scale": "1, 1"
+        },
+        "Parent": null
+      },
+      "Body": null,
+      "Item": null,
+      "ContainItem": []
+    }
+  ]
+}

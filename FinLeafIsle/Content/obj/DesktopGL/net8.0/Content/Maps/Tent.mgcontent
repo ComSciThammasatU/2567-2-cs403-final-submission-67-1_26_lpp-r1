@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/Maps/Tent.tmx</SourceFile>
+  <SourceTime>2025-05-20T00:26:10.4577235+07:00</SourceTime>
+  <DestFile>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/bin/DesktopGL/Content/Maps/Tent.xnb</DestFile>
+  <DestTime>2025-05-20T02:30:15.3811731+07:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2024-07-10T02:47:10+07:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2024-07-10T02:47:10+07:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/bin/DesktopGL/Content/Maps/Tilesets/Tileset.xnb</string>
+    <string>C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/bin/DesktopGL/Content/Maps/Tilesets/InsideTent.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,67 @@
+{
+  "ContainSlot": null,
+  "EntityType": null,
+  "Box": null,
+  "Fish": null,
+  "FishingRod": null,
+  "Player": {
+    "Facing": 3,
+    "State": 1,
+    "IsFishing": false
+  },
+  "Bed": null,
+  "Transform": {
+    "WorldPosition": "256.72168, 215.89664",
+    "WorldScale": "1, 1",
+    "WorldRotation": 0.0,
+    "Position": "256.72168, 215.89664",
+    "Rotation": 0.0,
+    "Scale": "1, 1",
+    "LocalMatrix": {
+      "M11": 1.0,
+      "M12": 0.0,
+      "M21": 0.0,
+      "M22": 1.0,
+      "M31": 256.72168,
+      "M32": 215.89664,
+      "X": "1, 0",
+      "Y": "0, 1",
+      "Z": "256.72168, 215.89664",
+      "Translation": "256.72168, 215.89664",
+      "Rotation": 0.0,
+      "Scale": "1, 1"
+    },
+    "WorldMatrix": {
+      "M11": 1.0,
+      "M12": 0.0,
+      "M21": 0.0,
+      "M22": 1.0,
+      "M31": 256.72168,
+      "M32": 215.89664,
+      "X": "1, 0",
+      "Y": "0, 1",
+      "Z": "256.72168, 215.89664",
+      "Translation": "256.72168, 215.89664",
+      "Rotation": 0.0,
+      "Scale": "1, 1"
+    },
+    "Parent": null
+  },
+  "Body": {
+    "BodyType": 1,
+    "Position": "256.72168, 217.90497",
+    "Velocity": "0, 120.5",
+    "Size": "16, 16",
+    "BoundingBox": {
+      "Min": "248.72168, 209.90497",
+      "Max": "264.72168, 225.90497",
+      "Center": "8, 8",
+      "CenterX": 8.0,
+      "CenterY": 8.0,
+      "Width": 16.0,
+      "Height": 16.0
+    }
+  },
+  "Item": null,
+  "ContainItem": []
+}

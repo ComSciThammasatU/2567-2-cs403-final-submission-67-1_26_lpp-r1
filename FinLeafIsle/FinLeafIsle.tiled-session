@@ -1,0 +1,193 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Content/Maps/Tent.tmx",
+    "expandedProjectPaths": [
+        "Content/Maps",
+        "Content",
+        "Content/Map",
+        "Content/Map/Tilesets",
+        "Content/Maps/TiledTemplate",
+        ".",
+        "Content/Maps/Tilesets"
+    ],
+    "fileStates": {
+        "C:/Users/User/Downloads/MonoGame.Extended-samples-main/MonoGame.Extended-samples/src/Games/Platformer/Content/test-map.tmx": {
+            "scale": 1.2456875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 399.7792383723847,
+                "y": 239.62671215694138
+            }
+        },
+        "C:/Users/User/Downloads/MonoGame.Extended-samples-main/MonoGame.Extended-samples/src/Games/Platformer/Content/tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Content/Map/Tilesets/Decoration.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Content/Map/Tilesets/tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Content/Map/Tilesets/wallTree.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Content/Map/town2.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 150.5,
+                "y": 440.75
+            }
+        },
+        "Content/Maps/Home.tmx": {
+            "expandedObjectLayers": [
+                15,
+                16,
+                2,
+                11,
+                8
+            ],
+            "scale": 2,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 451,
+                "y": 351.25
+            }
+        },
+        "Content/Maps/Tent.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4,
+                2
+            ],
+            "scale": 2.0761458333333334,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 239.86754302343084,
+                "y": 114.87632331543827
+            }
+        },
+        "Content/Maps/Tilesets/BigTree.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Content/Maps/Tilesets/Dark_temp.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Content/Maps/Tilesets/Decoration.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Content/Maps/Tilesets/InsideTent.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Content/Maps/Tilesets/Tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Content/Maps/Tilesets/home.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Content/Maps/Tilesets/land_spacing-export.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Content/Maps/Tilesets/tent.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Content/Maps/Tilesets/tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Content/Maps/Tilesets/wallTree.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Content/Maps/Town.tmx": {
+            "expandedObjectLayers": [
+                15,
+                16,
+                2,
+                11,
+                8
+            ],
+            "scale": 3,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 648.1666666666666,
+                "y": 512.1666666666666
+            }
+        },
+        "Content/Maps/town2.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 400.66666666666663,
+                "y": 399.3333333333333
+            }
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/Maps/Tilesets",
+    "last.imagePath": "C:/Users/User/OneDrive/เอกสาร/Finleaf Isle Asset/Maps/Tilesets",
+    "last.objectTemplatePath": "C:/Users/User/OneDrive/เอกสาร/Visual Studio 2022/Projects/FinLeafIsle/FinLeafIsle/Content/Maps/TiledTemplate",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Content/Maps/town2.tmx",
+        "Content/Maps/Town.tmx",
+        "Content/Maps/Home.tmx",
+        "Content/Maps/Tent.tmx",
+        "Content/Maps/Tilesets/Tileset.tsx",
+        "Content/Maps/Tilesets/Dark_temp.tsx",
+        "Content/Maps/Tilesets/BigTree.tsx",
+        "Content/Maps/Tilesets/tent.tsx",
+        "Content/Maps/Tilesets/InsideTent.tsx"
+    ],
+    "project": "FinLeafIsle.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "Content/Maps/town2.tmx",
+        "Content/Maps/Town.tmx",
+        "Content/Maps/Home.tmx",
+        "Content/Maps/Tilesets/InsideTent.tsx",
+        "Content/Maps/Tilesets/tent.tsx",
+        "Content/Maps/Tilesets/BigTree.tsx",
+        "Content/Maps/Tilesets/Dark_temp.tsx",
+        "Content/Maps/Tilesets/Tileset.tsx",
+        "Content/Maps/Tent.tmx",
+        "Content/Maps/Tilesets/land_spacing-export.tsx",
+        "Content/Maps/Tilesets/Decoration.tsx",
+        "Content/Maps/Tilesets/home.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}

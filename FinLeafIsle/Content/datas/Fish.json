@@ -1,0 +1,94 @@
+[
+  {
+    "Id": 4,
+    "Name": "Missow",
+    "Description": "A small little fish.",
+    "Location": [ "Town", "Home" ],
+    "Difficult": 30,
+    "SpawnChance": 60,
+    "Diet": "Harbivore",
+    "Depth": 0,
+    "Start": 600,
+    "End": 2400,
+    "Behavior": {
+      "PatternType": "smooth",
+      "Frequency": 5,
+      "MoveTimeMin": 1,
+      "MoveTimeMax": 4,
+      "Strength": 1.2,
+      "TiredTime": 6,
+      "TiredStrengthMultiplier": 0.3,
+      "TiredDuration": 1,
+      "ExtraParams": [ 0.8 ]
+    }
+  },
+  {
+    "Id": 5,
+    "Name": "Flying Fish",
+    "Description": "The flyful energic fish.",
+    "Location": ["Home" ],
+    "Difficult": 60,
+    "SpawnChance": 40,
+    "Diet": "Carnivore",
+    "Depth": 0,
+    "Start": 600,
+    "End": 1000,
+    "Behavior": {
+      "PatternType": "dart",
+      "Frequency": 8,
+      "MoveTimeMin": 1,
+      "MoveTimeMax": 2,
+      "Strength": 1.2,
+      "TiredTime": 10,
+      "TiredStrengthMultiplier": 0.3,
+      "TiredDuration": 2,
+      "ExtraParams": [ 0.4, 1 ]
+    }
+  },
+  {
+    "Id": 6,
+    "Name": "Log Fish",
+    "Description": "The flyful energic fish.",
+    "Location": [ "Town", "Home" ],
+    "Difficult": 60,
+    "SpawnChance": 40,
+    "Diet": "Carnivore",
+    "Depth": 0,
+    "Start": 1300,
+    "End": 1800,
+    "Behavior": {
+      "PatternType": "dart",
+      "Frequency": 8,
+      "MoveTimeMin": 1,
+      "MoveTimeMax": 2,
+      "Strength": 1.2,
+      "TiredTime": 10,
+      "TiredStrengthMultiplier": 0.3,
+      "TiredDuration": 2,
+      "ExtraParams": [ 0.4, 1 ]
+    }
+  },
+  {
+    "Id": 7,
+    "Name": "Fiber Fish",
+    "Description": "Moves erratically through the depths.",
+    "Location": [ "Town" ],
+    "Difficult": 40,
+    "SpawnChance": 30,
+    "Diet": "Omnivore",
+    "Depth": 0,
+    "Start": 900,
+    "End": 1500,
+    "Behavior": {
+      "PatternType": "floater",
+      "Frequency": 4,
+      "MoveTimeMin": 2,
+      "MoveTimeMax": 3,
+      "Strength": 1.2,
+      "TiredTime": 7,
+      "TiredStrengthMultiplier": 0.6,
+      "TiredDuration": 1.5,
+      "ExtraParams": [ 0.9, 0.3 ]
+    }
+  }
+]

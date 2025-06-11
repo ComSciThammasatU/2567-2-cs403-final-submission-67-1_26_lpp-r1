@@ -15,15 +15,15 @@
    
 Manual / Instructions for your projects starts here !
 # Directory Tree
-
+```
 2567-2-cs403-final-submission-67-1_26_lpp-r1/  
 ├── README.md  
 ├── demo  
-│  └── 67-1_26_lpp-r1_demo.mp4  
+│      └── 67-1_26_lpp-r1_demo.mp4  
 ├── final_reports  
-│  ├── 67-1_26_lpp-r1.pdf  
-│  ├── 67-1_26_lpp-r1_abstract_en.txt  
-│  └── 67-1_26_lpp-r1_abstract_th.txt  
-
+│      ├── 67-1_26_lpp-r1.pdf  
+│      ├── 67-1_26_lpp-r1_abstract_en.txt  
+│      └── 67-1_26_lpp-r1_abstract_th.txt  
+```
 # Topic 2 
 # Topic 3

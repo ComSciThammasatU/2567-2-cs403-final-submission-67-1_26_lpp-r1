@@ -211,9 +211,9 @@ Manual / Instructions for your projects starts here !
 ![image](https://github.com/user-attachments/assets/873b0c5d-f168-4c7d-9cb9-a2281ee53802)  
 ![image](https://github.com/user-attachments/assets/c593f25c-5c75-47d5-90b0-04e6459178df)  
 ![image](https://github.com/user-attachments/assets/f875bdf6-79b0-4948-8eda-87be54ab961d)  
-![image](https://github.com/user-attachments/assets/056a602d-5322-4e9a-8ecc-caef8ea313bb)
+![image](https://github.com/user-attachments/assets/056a602d-5322-4e9a-8ecc-caef8ea313bb)  
 
-# วิธีการติดตั้งโปรเจค
+# วิธีการติดตั้งโปรเจค  
 
 ![image](https://github.com/user-attachments/assets/0bfb1a97-691f-4c29-95cc-d8b9776dbc4b)  
 เปิด Git Bash   
@@ -221,6 +221,26 @@ Manual / Instructions for your projects starts here !
 ![image](https://github.com/user-attachments/assets/4b2d77ee-2494-4e39-a73a-db22ff7cac31)  
 คัดลอก URL ของ git repo  
 
-'
-git clone 
-'  
+`git clone `  
+ภายใน Git Bash ใช้ git clone ตามด้วย URL ที่คัดลอกไว้  
+
+![image](https://github.com/user-attachments/assets/cfe8a889-b5b5-4875-9875-9f7683c7f2d9)  
+ภายในโฟลเดอร์โปรเจค ทำการเปิดไฟล์ .sln ด้วย Visual Studio  
+
+![image](https://github.com/user-attachments/assets/8bdef123-2368-4471-a881-17b1454b0cb5)  
+เปิด Command Prompt ภายใน Visual Studio  
+
+`dotnet restore `  
+ใช้คำสั่งเพิ่อพื้นฟู package  
+
+`dotnet list package `  
+ใช้คำสั่งตรวจสอบรายการ package   
+![image](https://github.com/user-attachments/assets/44e3c5b6-c947-4810-8331-7555ff08cd6e)  
+
+![image](https://github.com/user-attachments/assets/8a0b1297-8334-4ede-a3c3-14b97db065e3)  
+ทำการ Build Solution  
+
+![image](https://github.com/user-attachments/assets/60887b6e-c47a-4965-9f9b-c9cfaec24eaa)  
+แล้วจึงสามารถกดทำงานโปรแกรม  
+
+# วิธีการใช้งานโปรเจค

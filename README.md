@@ -13,7 +13,6 @@
 
 
    
-Manual / Instructions for your projects starts here !
 # Directory Tree
 ```
 2567-2-cs403-final-submission-67-1_26_lpp-r1/  

@@ -213,4 +213,12 @@ Manual / Instructions for your projects starts here !
 ![image](https://github.com/user-attachments/assets/f875bdf6-79b0-4948-8eda-87be54ab961d)  
 ![image](https://github.com/user-attachments/assets/056a602d-5322-4e9a-8ecc-caef8ea313bb)
 
-# Topic 3
+# วิธีการติดตั้งโปรเจค
+
+![image](https://github.com/user-attachments/assets/0bfb1a97-691f-4c29-95cc-d8b9776dbc4b)  
+เปิด Git Bash   
+
+![image](https://github.com/user-attachments/assets/4b2d77ee-2494-4e39-a73a-db22ff7cac31)  
+คัดลอก URL ของ git repo  
+
+'git clone '  

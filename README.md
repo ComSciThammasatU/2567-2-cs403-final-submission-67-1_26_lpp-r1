@@ -19,7 +19,9 @@ Manual / Instructions for your projects starts here !
 2567-2-cs403-final-submission-67-1_26_lpp-r1/  
 ├── README.md  
 ├── demo  
-│   └── 67-1_26_lpp-r1_demo.mp4  
+│   ├── 67-1_26_lpp-r1_demo_1.mp4
+│   ├── 67-1_26_lpp-r1_demo_2.mp4
+│   └── 67-1_26_lpp-r1_demo_3.mp4
 ├── final_reports  
 │   ├── 67-1_26_lpp-r1.pdf  
 │   ├── 67-1_26_lpp-r1_abstract_en.txt  
@@ -187,8 +189,13 @@ Manual / Instructions for your projects starts here !
 ```
 # Prerequisites
 - [.NET SDK 8.0 or higher](https://dotnet.microsoft.com/en-us/download)  
-  
+
+![image](https://github.com/user-attachments/assets/cd866366-2fb3-4bba-907f-4b6e32fe4cf7)  
+
 - [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)  with ".NET Desktop Development" workload  
+
+![image](https://github.com/user-attachments/assets/3b839369-af50-4f59-a38d-407e943f5c0e)  
+ติดตั้ง Visual Studio 2022 พร้อมกดเลือก .NET Desktop Development workload  
 
 - [Git](https://git-scm.com/downloads/win)  
 

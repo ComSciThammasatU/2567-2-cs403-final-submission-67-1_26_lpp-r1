@@ -185,5 +185,11 @@ Manual / Instructions for your projects starts here !
 │   └── SoundtrackManager.cs  
 └── FinLeafIsle.sln
 ```
-# Topic 2 
+# Prerequisites
+- [.NET SDK 8.0 or higher](https://dotnet.microsoft.com/en-us/download)  
+  
+- Visual Studio 2022 with ".NET Desktop Development" workload(https://visualstudio.microsoft.com/downloads/)   
+
+- Git (https://git-scm.com/downloads/win)  
+
 # Topic 3

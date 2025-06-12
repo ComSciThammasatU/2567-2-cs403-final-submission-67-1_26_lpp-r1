@@ -218,50 +218,65 @@ Manual / Instructions for your projects starts here !
 ![image](https://github.com/user-attachments/assets/0bfb1a97-691f-4c29-95cc-d8b9776dbc4b)  
 เปิด Git Bash   
 
+
 ![image](https://github.com/user-attachments/assets/4b2d77ee-2494-4e39-a73a-db22ff7cac31)  
 คัดลอก URL ของ git repo  
+
 
 `git clone `  
 ภายใน Git Bash ใช้ git clone ตามด้วย URL ที่คัดลอกไว้  
 
+
 ![image](https://github.com/user-attachments/assets/cfe8a889-b5b5-4875-9875-9f7683c7f2d9)  
 ภายในโฟลเดอร์โปรเจค ทำการเปิดไฟล์ .sln ด้วย Visual Studio  
+
 
 ![image](https://github.com/user-attachments/assets/8bdef123-2368-4471-a881-17b1454b0cb5)  
 เปิด Command Prompt ภายใน Visual Studio  
 
+
 `dotnet restore `  
 ใช้คำสั่งเพิ่อพื้นฟู package  
+
 
 `dotnet list package `  
 ใช้คำสั่งตรวจสอบรายการ package   
 ![image](https://github.com/user-attachments/assets/44e3c5b6-c947-4810-8331-7555ff08cd6e)  
 
+
 ![image](https://github.com/user-attachments/assets/8a0b1297-8334-4ede-a3c3-14b97db065e3)  
 ทำการ Build Solution  
 
+
 ![image](https://github.com/user-attachments/assets/60887b6e-c47a-4965-9f9b-c9cfaec24eaa)  
 แล้วจึงสามารถกดทำงานโปรแกรม  
+
 
 # วิธีการใช้งานโปรเจค
 
 ![image](https://github.com/user-attachments/assets/0438dc27-162b-4b41-ab0d-9c0e6f2ab1b3)  
 หน้าเริ่มเกม กด Play เพื่อเข้าเล่น  
 
+
 ![image](https://github.com/user-attachments/assets/16597077-1fcf-4b3c-9fee-5a728f296a1e)  
 เลือกช่องบันทึก  
+
 
 ![image](https://github.com/user-attachments/assets/959d9102-a872-4a74-b271-704089afa264)  
 การควบคุมภายในเกมมีได้แก่ การเคลื่อนที่ด้วย WASD, การคลิกซ้ายเพื่อตกปลา, กด E เปิดเมนู  
 
+
 ![image](https://github.com/user-attachments/assets/74899ea8-64f7-44ad-94c0-aedff98d77ad)  
 ผู้เล่นบังคับปลาให้อยู่ภายในวงกลมขนาดเล็ก เมื่อวงกลมเพิ่มจนสมบูรณ์จึงได้รับปลา  
+
 
 ![image](https://github.com/user-attachments/assets/fb86d1fb-14bf-4325-a4f7-cd71091ff1f2)   
 การปฏิสัมพันธ์กับที่นอน เป็นการบันทึกเกม  
 
+
 ![image](https://github.com/user-attachments/assets/41676a49-9dc4-4522-9e5a-2b952bc27321)  
 การตั้งค่าภายในเกม  
+
 
 ![image](https://github.com/user-attachments/assets/c9448e35-b45f-4be9-8540-4e8cff7c1cb1)  
 เมนูสำหรับออกจากเกม  

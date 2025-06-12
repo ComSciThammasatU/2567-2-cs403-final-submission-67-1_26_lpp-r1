@@ -1,0 +1,3 @@
+ฟินลีฟ ไอส์ล เดโม
+FINLEAF ISLE DEMO
+The Finleaf Isle Demo Project is a video game development project aimed at exploring the life simulation genre, focusing on the experience of being a fisherman. The game features a dynamic in-game day and time system, along with activities that align with the role of a fisherman. It is developed using a custom-built game engine created with the MonoGame framework, to gain a deeper understanding of how video games function. The game runs on desktop computers, displays in 2D graphics, and utilizes the Entity Component System (ECS) architecture to efficiently manage in-game objects. The result of this game development demonstrates expected performance and provides a solid foundation for future development

@@ -195,8 +195,22 @@ Manual / Instructions for your projects starts here !
 - [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)  with ".NET Desktop Development" workload  
 
 ![image](https://github.com/user-attachments/assets/3b839369-af50-4f59-a38d-407e943f5c0e)  
-ติดตั้ง Visual Studio 2022 พร้อมกดเลือก .NET Desktop Development workload  
+กดเลือก .NET Desktop Development แล้วจึงกดติดตั้ง  
 
-- [Git](https://git-scm.com/downloads/win)  
+- [Git](https://git-scm.com/downloads/win)
+  
+![image](https://github.com/user-attachments/assets/d0fe4a0f-3a99-42ff-8632-ea583d8f44a6)  
+![image](https://github.com/user-attachments/assets/1c494528-6212-42ba-b41f-25955b913466)  
+![image](https://github.com/user-attachments/assets/eca8525a-0dd4-4fff-9764-347b0d523dc9)  
+![image](https://github.com/user-attachments/assets/6c8127e5-92f4-41a0-8573-3628767f5ab0)
+![image](https://github.com/user-attachments/assets/61348889-2ea4-482a-9f69-8c386253dcca)
+![image](https://github.com/user-attachments/assets/270f70b0-a199-43ba-adc9-43c4442a10bb)  
+![image](https://github.com/user-attachments/assets/99f5605d-2cd6-48f8-9605-944bd128bf21)  
+![image](https://github.com/user-attachments/assets/175678b3-14ab-4a2a-a8a6-6e0762a57926)
+![image](https://github.com/user-attachments/assets/18c3d22c-1544-41db-8d30-69657ad4aca0)
+![image](https://github.com/user-attachments/assets/873b0c5d-f168-4c7d-9cb9-a2281ee53802)
+![image](https://github.com/user-attachments/assets/c593f25c-5c75-47d5-90b0-04e6459178df)
+![image](https://github.com/user-attachments/assets/f875bdf6-79b0-4948-8eda-87be54ab961d)
+![image](https://github.com/user-attachments/assets/056a602d-5322-4e9a-8ecc-caef8ea313bb)
 
 # Topic 3

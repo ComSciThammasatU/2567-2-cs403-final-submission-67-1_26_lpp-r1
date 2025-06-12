@@ -188,8 +188,8 @@ Manual / Instructions for your projects starts here !
 # Prerequisites
 - [.NET SDK 8.0 or higher](https://dotnet.microsoft.com/en-us/download)  
   
-- Visual Studio 2022 with ".NET Desktop Development" workload(https://visualstudio.microsoft.com/downloads/)   
+- [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)  with ".NET Desktop Development" workload  
 
-- Git (https://git-scm.com/downloads/win)  
+- [Git](https://git-scm.com/downloads/win)  
 
 # Topic 3

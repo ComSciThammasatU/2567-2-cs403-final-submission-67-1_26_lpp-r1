@@ -244,3 +244,31 @@ Manual / Instructions for your projects starts here !
 แล้วจึงสามารถกดทำงานโปรแกรม  
 
 # วิธีการใช้งานโปรเจค
+
+![image](https://github.com/user-attachments/assets/0438dc27-162b-4b41-ab0d-9c0e6f2ab1b3)  
+หน้าเริ่มเกม กด Play เพื่อเข้าเล่น  
+
+![image](https://github.com/user-attachments/assets/16597077-1fcf-4b3c-9fee-5a728f296a1e)  
+เลือกช่องบันทึก  
+
+![image](https://github.com/user-attachments/assets/959d9102-a872-4a74-b271-704089afa264)  
+การควบคุมภายในเกมมีได้แก่ การเคลื่อนที่ด้วย WASD, การคลิกซ้ายเพื่อตกปลา, กด E เปิดเมนู  
+
+![image](https://github.com/user-attachments/assets/74899ea8-64f7-44ad-94c0-aedff98d77ad)  
+ผู้เล่นบังคับปลาให้อยู่ภายในวงกลมขนาดเล็ก เมื่อวงกลมเพิ่มจนสมบูรณ์จึงได้รับปลา  
+
+![image](https://github.com/user-attachments/assets/fb86d1fb-14bf-4325-a4f7-cd71091ff1f2)   
+การปฏิสัมพันธ์กับที่นอน เป็นการบันทึกเกม  
+
+![image](https://github.com/user-attachments/assets/41676a49-9dc4-4522-9e5a-2b952bc27321)  
+การตั้งค่าภายในเกม  
+
+![image](https://github.com/user-attachments/assets/c9448e35-b45f-4be9-8540-4e8cff7c1cb1)  
+เมนูสำหรับออกจากเกม  
+
+
+
+
+
+
+
